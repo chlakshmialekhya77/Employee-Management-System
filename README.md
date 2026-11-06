@@ -138,3 +138,33 @@ Computer Science and Engineering Graduate
 ##  Project Status
 
 Completed – Core Employee Management System functionality and validation implemented.
+
+
+## Screenshots
+
+### 1. Dashboard
+![Dashboard](screenshots/01.dashboard.png)
+
+### 2. Add Employee
+![Add Employee](screenshots/02.add-employee.png)
+
+### 3. Edit Employee
+![Edit Employee](screenshots/03.edit-employee.png)
+
+### 4. Search and Filter
+![Search and Filter](screenshots/04.search-filter.png)
+
+### 5. Name Field Validation
+![Name Field Validation](screenshots/05.name-field-validation.png)
+
+### 6. Email Field Validation
+![Email Field Validation](screenshots/06.email-field-validation.png)
+
+### 7. Phone Number Field Validation
+![Phone Number Field Validation](screenshots/07.phonenumber-field-validation.png)
+
+### 8. Salary Field Validation
+![Salary Field Validation](screenshots/08.salary-field-validation.png)
+
+### 9. Required Field Validation
+![Required Field Validation](screenshots/09.required-field-validation.png)
