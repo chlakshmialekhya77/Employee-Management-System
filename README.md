@@ -71,7 +71,7 @@ Employee-Management-System/
 ### 1. Clone the repository
 
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/chlakshmialekhya77/Employee-Management-System.git
 
 
 ### 2. Backend setup
@@ -105,7 +105,7 @@ npm run dev
 
 Frontend runs at:
 
-`http://localhost:5174/`
+`http://localhost:5173/`
 
 ## API Endpoints
 
